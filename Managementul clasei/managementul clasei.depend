@@ -1,8 +1,12 @@
 # depslib dependency file v1.0
-1525959090 source:c:\users\user\desktop\info style\info\managementul clasei\main.cpp
+1527891171 source:c:\users\radu\documents\managementul-clasei\managementul clasei\main.cpp
 	<SFML/Graphics.hpp>
 	<iostream>
 	<string>
+	<vector>
+	"Clasa.h"
+	"Button.h"
+	<fstream>
 
 1429780453 c:\sfml-2.3.2\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -381,4 +385,124 @@
 	<SFML/System/String.hpp>
 	<string>
 	<vector>
+
+1526470616 c:\users\radu\documents\managementul-clasei\managementul clasei\meniu.h
+	<SFML/Graphics.hpp>
+
+1526470616 source:c:\users\radu\documents\managementul-clasei\managementul clasei\meniu.cpp
+	"meniu.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1528052191 source:c:\users\user\documents\managementul-clasei\managementul clasei\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<vector>
+	"Clasa.h"
+	"Button.h"
+	<fstream>
+	<sstream>
+	<cstring>
+
+1526456349 c:\users\user\documents\managementul-clasei\managementul clasei\meniu.h
+	<SFML/Graphics.hpp>
+
+1526454649 source:c:\users\user\documents\managementul-clasei\managementul clasei\meniu.cpp
+	"meniu.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1527884820 source:c:\users\radu\documents\managementul-clasei\managementul clasei\button.cpp
+	"Button.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1527884820 c:\users\radu\documents\managementul-clasei\managementul clasei\button.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1528050708 source:c:\users\user\documents\managementul-clasei\managementul clasei\button.cpp
+	"Button.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1528050708 c:\users\user\documents\managementul-clasei\managementul clasei\button.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1527054944 source:c:\users\elev\documents\managementul-clasei\managementul clasei\button.cpp
+	"Button.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1527054944 c:\users\elev\documents\managementul-clasei\managementul clasei\button.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1527154000 source:c:\users\elev\documents\managementul-clasei\managementul clasei\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<vector>
+	"Button.h"
+
+1528024085 source:f:\info teza\managementul clasei\button.cpp
+	"Button.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1528024085 f:\info teza\managementul clasei\button.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1528047150 source:f:\info teza\managementul clasei\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	<vector>
+	"Clasa.h"
+	"Button.h"
+	<fstream>
+	<sstream>
+	<cstring>
+
+1528024085 f:\info teza\managementul clasei\clasa.h
+	<SFML/Graphics.hpp>
+	<string>
+	<fstream>
+	"Button.h"
+
+1528029275 source:f:\info teza\managementul clasei\clasa.cpp
+	"Clasa.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<fstream>
+	"Button.h"
+
+1528050708 c:\users\user\documents\managementul-clasei\managementul clasei\clasa.h
+	<SFML/Graphics.hpp>
+	<string>
+	<fstream>
+	"Button.h"
+
+1528050708 source:c:\users\user\documents\managementul-clasei\managementul clasei\clasa.cpp
+	"Clasa.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<fstream>
+	"Button.h"
+
+1527889166 source:c:\users\radu\documents\managementul-clasei\managementul clasei\clasa.cpp
+	"Clasa.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<fstream>
+	"Button.h"
+
+1527889188 c:\users\radu\documents\managementul-clasei\managementul clasei\clasa.h
+	<SFML/Graphics.hpp>
+	<string>
+	<fstream>
+	"Button.h"
 
