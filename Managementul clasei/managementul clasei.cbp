@@ -68,6 +68,11 @@
 		<Linker>
 			<Add directory="C:/SFML-2.3.2/lib" />
 		</Linker>
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.h" />
+		<Unit filename="Clasa.cpp" />
+		<Unit filename="Clasa.h" />
+		<Unit filename="Clasele/numar_clase.txt" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
